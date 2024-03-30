@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Requirements
 
-The project requires Python 3.x along with various libraries such as pandas, numpy, matplotlib, seaborn, scikit-learn, etc. These dependencies are listed in the `requirements.txt` file.
+The project requires Python 3.11 along with various libraries such as pandas, numpy, matplotlib, seaborn, scikit-learn, etc. These dependencies are listed in the `requirements.txt` file.
 
 ## Contributing
 
